@@ -6,15 +6,72 @@
         "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0": {
           "type": "story",
           "settings": {
-            "title": "Shopping Link",
-            "story_link": "https:\/\/shopping.google.com\/"
+            "title": "Ring",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "story_link": "shopify:\/\/products\/black-leather-bag"
+          }
+        },
+        "883fdc27-5a69-409b-9e1f-29b136b3233a": {
+          "type": "story",
+          "settings": {
+            "title": "Necklace",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com_2.png",
+            "story_link": "shopify:\/\/products\/blue-silk-tuxedo"
+          }
+        },
+        "b8efdfd4-5023-41a0-ae33-330b3917d181": {
+          "type": "story",
+          "settings": {
+            "title": "Crown",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com_3.png",
+            "story_link": "shopify:\/\/products\/chequered-red-shirt"
+          }
+        },
+        "fdfc21c2-cbff-4529-8f5a-189076b410f4": {
+          "type": "story",
+          "settings": {
+            "title": "Earring",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com_4.png",
+            "story_link": "shopify:\/\/products\/classic-leather-jacket"
+          }
+        },
+        "14c93506-0721-480d-891b-9504f803ad90": {
+          "type": "story",
+          "settings": {
+            "title": "Wedding Ring",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "story_link": "shopify:\/\/products\/dark-denim-top"
+          }
+        },
+        "12d249d4-d3f5-4d8d-aecd-91e2d695f4cd": {
+          "type": "story",
+          "settings": {
+            "title": "Heart Ring",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com_5.png",
+            "story_link": "shopify:\/\/products\/longsleeve-cotton-top"
+          }
+        },
+        "4bebb366-c17a-4375-9307-2bad61d9c6b4": {
+          "type": "story",
+          "settings": {
+            "title": "Diamond",
+            "story_image": "shopify:\/\/shop_images\/pngwing.com_6.png",
+            "story_link": "shopify:\/\/products\/yellow-wool-jumper"
           }
         }
       },
       "block_order": [
-        "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0"
+        "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0",
+        "883fdc27-5a69-409b-9e1f-29b136b3233a",
+        "b8efdfd4-5023-41a0-ae33-330b3917d181",
+        "fdfc21c2-cbff-4529-8f5a-189076b410f4",
+        "14c93506-0721-480d-891b-9504f803ad90",
+        "12d249d4-d3f5-4d8d-aecd-91e2d695f4cd",
+        "4bebb366-c17a-4375-9307-2bad61d9c6b4"
       ],
       "settings": {
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "image_banner": {
